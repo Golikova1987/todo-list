@@ -1,0 +1,26 @@
+
+.input-todo {
+    max-width: 100%;
+    background-color: white;
+    position: relative;
+    box-sizing: border-box;
+    
+}
+
+.input-todo__icon {
+    width: 30px;
+    position: absolute;
+    left: 15px;
+    top: 30px;
+}
+
+.input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(213, 210, 210);
+    outline: none;
+    font-size: 45px;
+    font-style: italic;
+    padding: 20px 20px 20px 55px;
+    
+}

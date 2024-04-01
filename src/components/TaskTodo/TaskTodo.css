@@ -1,0 +1,40 @@
+.task-todo {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    background-color: white;
+    border-bottom: 1px solid rgb(222, 220, 220);
+    font-size: 45px;
+    font-style: italic;
+    padding: 15px 15px 15px 10px;
+}
+
+.task-todo__container {
+    display: flex;
+    width: 100%;
+}
+
+.task-todo__checkbox-real {
+    margin-right: 20px;
+}
+
+.task-todo__button {
+    padding: 0;
+}
+
+.task-todo__button-img {
+    width: 30px;
+}
+
+.task-todo__save-button {
+    margin-right: 20px;
+}
+
+.task-todo__input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(213, 210, 210);
+    outline: none;
+    font-size: 45px;
+    margin-left: 10px;
+}
